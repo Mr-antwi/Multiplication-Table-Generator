@@ -20,7 +20,7 @@ body{
     margin: auto;
     padding: 30px;
     text-shadow: 2px 2px 4px #000;
-    transform: translateY(40px);
+    transform: translate(-190px, 75px);
     color: #fff;
 }
 
